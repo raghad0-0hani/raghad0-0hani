@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Raghad Aلbu Hasanein ✨
+# ✨ Raghad Abu Hasanein ✨
 
 ### Intelligent Systems & Computer Engineering Student
 
