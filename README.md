@@ -78,19 +78,7 @@
 
 </div>
 
----
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
-
-
----
 ## 🌐 Connect With Me
 
 <div align="center">
