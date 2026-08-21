@@ -49,7 +49,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raghad-abu-hasanein">
+<a href="https://www.linkedin.com/in/raghad-abu-hasanein-0417a642b">
   <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
