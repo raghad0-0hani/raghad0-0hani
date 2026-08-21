@@ -54,7 +54,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:raghadhani.r.r@gmail.com">
+<a href="mailto:raghad.hani.abu.hasanein@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail"/>
 </a>
 
