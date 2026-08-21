@@ -40,50 +40,14 @@
 
 ---
 
-## 🛠 Tech Stack
 
-### Programming Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,php,html,css,tailwind,mysql,git,github,vscode,linux" />
-</p>
-
-### Web Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghad0-0hani&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghad0-0hani&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/raghad0-0hani">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -91,7 +55,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:raghadhani.r.r@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
