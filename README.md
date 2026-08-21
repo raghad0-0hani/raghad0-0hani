@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JhN2NlMmM2MTQzN2M5NjA3N2I4ZDJmMGIzYjNmOTQ2MWUwZmE5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
@@ -26,22 +26,19 @@
 🎯 Goal:
 > Building intelligent solutions that combine software, hardware, and innovation.
 
-⚡ Strengths:
+ Strengths:
 - Front-End Development
 - Problem Solving
 - AI Tools & Applications
 - Fast Learning
 
-🌱 Currently Learning:
+ Currently Learning:
 - Operating Systems
 - Signal Processing
 - Embedded Systems
 - Advanced Python
 
 ---
-
-
-
 
 ## 🌐 Connect With Me
 
@@ -61,8 +58,8 @@
 
 </div>
 
-###  "Engineering the Future Through Intelligence & Innovation"
+###  "✨One Step Today...Brighter Future Oneday✨"
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8A2BE2"/>
+
 
 </div>
